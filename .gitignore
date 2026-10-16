@@ -14,4 +14,4 @@ __pycache__/
 # Logs
 *.log
 
-instance/
+instance
